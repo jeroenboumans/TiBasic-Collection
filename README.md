@@ -1,4 +1,4 @@
-# My TI-Basic Collection
+# My TI-Basic Collection <img width="40px" src="http://i.imgur.com/esLmBa3.png" style="float:left">
 A small library of programs for Texas Instruments calculators running Ti-Basic.
 Guidebooks for Ti calculators can be found [here](https://education.ti.com/en/guidebook/search?active=guidebooks).
 I'm working on a TI-84 Plus. The library will be updated from time to time.
