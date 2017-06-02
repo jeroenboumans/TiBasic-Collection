@@ -15,8 +15,7 @@ I'm working on a TI-84 Plus. The library will be updated from time to time.
 # Library
 * [Areas](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/Areas.8xp) - Program containing methods to calculate areas of: a **square**, **rectangle**, **parallelogram**, **trapezoid**, **circle**, **ellipse** and **triangle**
 * [Pythagoras](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/PYTHAGORAS.8xp)
-* [Cylinder Volume](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/
-CYLINDER.8xp)
+* [Cylinder Volume](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/CYLINDER.8xp)
 
 
 # License
