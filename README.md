@@ -13,8 +13,8 @@ I'm working on a TI-84 Plus. The library will be updated from time to time.
 * Open it on your TI by pressing **PRGM** following by your choice of program you'd like to run.
 
 # Library
-* Pythagoras
-* Cylinder Volume
+* [Pythagoras](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/PYTHAGORAS.8xp)
+* [Cylinder Volume](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/CYLINDER.8xp)
 
 
 # License
