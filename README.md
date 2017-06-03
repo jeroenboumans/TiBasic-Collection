@@ -14,7 +14,7 @@ I'm working on a TI-84 Plus. The library will be updated from time to time.
 
 # Library
 * [Areas](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/Areas.8xp) - Program containing methods to calculate areas of: a **square**, **rectangle**, **parallelogram**, **trapezoid**, **circle**, **ellipse** and **triangle**
-* [Volumes](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/Volumes.8xp) - Program containing methods to calculate volumes of: a **cube**, **rectangular prism**, **irregular prism**, **cylinder**, **pyramid**, **conde**, **sphere** and **ellipsoid**
+* [Volumes](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/Volumes.8xp) - Program containing methods to calculate volumes of: a **cube**, **rectangular prism**, **irregular prism**, **cylinder**, **pyramid**, **cone**, **sphere** and **ellipsoid**
 * [Pythagoras](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/PYTHAGORAS.8xp)
 
 # License
