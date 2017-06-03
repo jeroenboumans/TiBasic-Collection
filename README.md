@@ -18,4 +18,4 @@ I'm working on a TI-84 Plus. The library will be updated from time to time.
 * [Pythagoras](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/PYTHAGORAS.8xp)
 
 # License
-MIT
+[Apache 2.0](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/LICENSE)
