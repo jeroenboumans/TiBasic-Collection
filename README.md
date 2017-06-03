@@ -3,8 +3,6 @@ A small library of programs for Texas Instruments calculators running Ti-Basic.
 Guidebooks for Ti calculators can be found [here](https://education.ti.com/en/guidebook/search?active=guidebooks).
 I'm working on a TI-84 Plus. The library will be updated from time to time.
 
-<img src="http://i.imgur.com/sc3Xw5D.png"> <img src="http://i.imgur.com/hwY0IdJ.png"> <img src="http://i.imgur.com/G9v16uo.png">
-
 # Installation
 
 * Download or clone this repo to your system
@@ -15,9 +13,20 @@ I'm working on a TI-84 Plus. The library will be updated from time to time.
 * Open it on your TI by pressing **PRGM** following by your choice of program you'd like to run.
 
 # Library
-* [Areas](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/Areas.8xp) - Program containing methods to calculate areas of: a **square**, **rectangle**, **parallelogram**, **trapezoid**, **circle**, **ellipse** and **triangle**
-* [Volumes](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/Volumes.8xp) - Program containing methods to calculate volumes of: a **cube**, **rectangular prism**, **irregular prism**, **cylinder**, **pyramid**, **cone**, **sphere** and **ellipsoid**
-* [Pythagoras](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/PYTHAGORAS.8xp)
+## Areas
+<img src="http://i.imgur.com/sc3Xw5D.png">
+
+[Areas](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/Areas.8xp) - Program containing methods to calculate areas of: a **square**, **rectangle**, **parallelogram**, **trapezoid**, **circle**, **ellipse** and **triangle**
+
+## Volumes
+<img src="http://i.imgur.com/hwY0IdJ.png">
+
+[Volumes](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/Volumes.8xp) - Program containing methods to calculate volumes of: a **cube**, **rectangular prism**, **irregular prism**, **cylinder**, **pyramid**, **cone**, **sphere** and **ellipsoid**
+
+## Pythagoras
+<img src="http://i.imgur.com/G9v16uo.png">
+
+[Pythagoras](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/src/PYTHAGORAS.8xp) - Calculate edge A/B or C length by giving the length of the two adjacent edges.
 
 # License
 [Apache 2.0](https://github.com/jeroenboumans/TiBasic-Collection/blob/master/LICENSE)
