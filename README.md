@@ -3,6 +3,8 @@ A small library of programs for Texas Instruments calculators running Ti-Basic.
 Guidebooks for Ti calculators can be found [here](https://education.ti.com/en/guidebook/search?active=guidebooks).
 I'm working on a TI-84 Plus. The library will be updated from time to time.
 
+<img src="http://i.imgur.com/sc3Xw5D.png"> <img src="http://i.imgur.com/hwY0IdJ.png"> <img src="http://i.imgur.com/G9v16uo.png">
+
 # Installation
 
 * Download or clone this repo to your system
